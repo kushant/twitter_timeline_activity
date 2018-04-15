@@ -1,0 +1,20 @@
+{
+  "name": "testing",
+	"id":"NewActivity",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "description": "activity description",
+  "author": "kupatel <kupatel@tibco.com>",
+		
+			"outputs": [
+   
+	{
+	  "name": "response",
+	  "type": "string"
+	  
+		
+		}
+		]
+}
+		
+	
