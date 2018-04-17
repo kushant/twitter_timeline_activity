@@ -5,6 +5,7 @@
   "type": "flogo:activity",
   "description": "activity description",
   "author": "kupatel <kupatel@tibco.com>",
+   "ref": "github.com/kushant/twitter_timeline_activity",
 		
 			"outputs": [
    
